@@ -35,7 +35,7 @@ Quiz-Game/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Saarthak-04/python-quiz_game
 ```
 
 Replace `YOUR_REPOSITORY_URL` with your GitHub repository's URL.
